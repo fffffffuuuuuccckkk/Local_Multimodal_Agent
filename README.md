@@ -1,8 +1,5 @@
 # Local Multimodal AI Agent (本地 AI 智能文献与图像管理助手)
 
-> **Student Name**: [Your Name]
-> **Date**: 2025-12-30
-> **Course**: [Course Name]
 
 ## 1. 项目简介 (Project Introduction)
 
